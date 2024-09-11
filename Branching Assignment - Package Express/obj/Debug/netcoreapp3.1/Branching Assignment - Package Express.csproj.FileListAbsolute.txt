@@ -1,0 +1,13 @@
+C:\Users\Telissa\Documents\GitHub\Basic-C-Sharp-Projects\Branching Assignment - Package Express\bin\Debug\netcoreapp3.1\Branching Assignment - Package Express.exe
+C:\Users\Telissa\Documents\GitHub\Basic-C-Sharp-Projects\Branching Assignment - Package Express\bin\Debug\netcoreapp3.1\Branching Assignment - Package Express.deps.json
+C:\Users\Telissa\Documents\GitHub\Basic-C-Sharp-Projects\Branching Assignment - Package Express\bin\Debug\netcoreapp3.1\Branching Assignment - Package Express.runtimeconfig.json
+C:\Users\Telissa\Documents\GitHub\Basic-C-Sharp-Projects\Branching Assignment - Package Express\bin\Debug\netcoreapp3.1\Branching Assignment - Package Express.runtimeconfig.dev.json
+C:\Users\Telissa\Documents\GitHub\Basic-C-Sharp-Projects\Branching Assignment - Package Express\bin\Debug\netcoreapp3.1\Branching Assignment - Package Express.dll
+C:\Users\Telissa\Documents\GitHub\Basic-C-Sharp-Projects\Branching Assignment - Package Express\bin\Debug\netcoreapp3.1\Branching Assignment - Package Express.pdb
+C:\Users\Telissa\Documents\GitHub\Basic-C-Sharp-Projects\Branching Assignment - Package Express\obj\Debug\netcoreapp3.1\Branching Assignment - Package Express.csproj.AssemblyReference.cache
+C:\Users\Telissa\Documents\GitHub\Basic-C-Sharp-Projects\Branching Assignment - Package Express\obj\Debug\netcoreapp3.1\Branching Assignment - Package Express.AssemblyInfoInputs.cache
+C:\Users\Telissa\Documents\GitHub\Basic-C-Sharp-Projects\Branching Assignment - Package Express\obj\Debug\netcoreapp3.1\Branching Assignment - Package Express.AssemblyInfo.cs
+C:\Users\Telissa\Documents\GitHub\Basic-C-Sharp-Projects\Branching Assignment - Package Express\obj\Debug\netcoreapp3.1\Branching Assignment - Package Express.csproj.CoreCompileInputs.cache
+C:\Users\Telissa\Documents\GitHub\Basic-C-Sharp-Projects\Branching Assignment - Package Express\obj\Debug\netcoreapp3.1\Branching Assignment - Package Express.dll
+C:\Users\Telissa\Documents\GitHub\Basic-C-Sharp-Projects\Branching Assignment - Package Express\obj\Debug\netcoreapp3.1\Branching Assignment - Package Express.pdb
+C:\Users\Telissa\Documents\GitHub\Basic-C-Sharp-Projects\Branching Assignment - Package Express\obj\Debug\netcoreapp3.1\Branching Assignment - Package Express.genruntimeconfig.cache
