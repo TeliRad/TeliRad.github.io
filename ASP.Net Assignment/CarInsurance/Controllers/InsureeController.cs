@@ -13,7 +13,18 @@ namespace CarInsurance.Controllers
     public class InsureeController : Controller
     {
         private InsuranceEntities db = new InsuranceEntities();
+        public ActionResult Admin()
+        {
+            // This is a placeholder for your data retrieval logic. Replace with actual data access.
 
+            List<QuoteViewModel> quotes = new List<QuoteViewModel>
+    {
+        new QuoteViewModel { FirstName = "John", LastName = "Doe", Email = "john.doe@example.com", QuoteAmount = 150.00m },
+        new QuoteViewModel { FirstName = "Jane", LastName = "Smith", Email = "jane.smith@example.com", QuoteAmount = 200.00m }
+    };
+
+            return View(quotes);
+        }
 
 
         // GET: Insuree
@@ -179,4 +190,7 @@ namespace CarInsurance.Controllers
         }
     }
 
+ 
+       
+   
 }
